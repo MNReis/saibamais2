@@ -5,11 +5,11 @@ body{
 .name {
 text-align: center;
 position: relative;
-top: 500px;
+top: 800px;
 }
 
 .embreve {
   text-align: center;
   position: relative;
-  top: -300;
+  top: -600;
 }
